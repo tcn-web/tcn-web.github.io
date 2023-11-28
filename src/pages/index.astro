@@ -1,0 +1,88 @@
+---
+import { Image } from 'astro:assets'
+import Base from "@layouts/Base.astro";
+import Cta from "@layouts/components/Cta.astro";
+import { markdownify } from "@lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const homepage = await getEntryBySlug("homepage", "index");
+const { intro, sections } = homepage.data;
+---
+
+<Base>
+  <!-- intro -->
+  <section class="section pb-[50px]">
+    <div class="container">
+      <div class="row text-center">
+        <div class="mx-auto lg:col-10">
+          <h1 class="font-primary font-bold">{intro?.title}</h1>
+          {
+            intro?.content && (
+              <p class="mt-4" set:html={markdownify(intro.content)} />
+            )
+          }
+
+          {
+            intro?.button?.enable && (
+              <a class="btn btn-primary mt-4" href={intro.button.link}>
+                {intro.button.label}
+              </a>
+            )
+          }
+
+          {
+            intro?.image && (
+              <Image
+                class="mx-auto mt-12"
+                src={intro.image}
+                width={750}
+                height={390}
+                alt="banner image"
+              />
+            )
+          }
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Services -->
+  {
+    sections!.map((section, index: number) => {
+      const isOdd = index % 2 > 0;
+      return (
+        <section class={`section ${!isOdd && "bg-theme-light"}`}>
+          <div class="container">
+            <div class="items-center gap-8 md:grid md:grid-cols-2">
+              <div class={`service-carousel ${!isOdd && "md:order-2"}`}>
+                
+                  <Image
+                    class="mx-auto"
+                    src={section!.image}
+                    width={538}
+                    height={328}
+                    alt=""
+                  />
+                
+              </div>
+
+              {/* Content */}
+              <div
+                class={`service-content mt-5 md:mt-0 ${!isOdd && "md:order-1"}`}
+              >
+                <h2 class="font-bold leading-[40px]">{section?.title}</h2>
+                <p class="mt-4 mb-2">{section?.content}</p>
+                
+              </div>
+            </div>
+          </div>
+        </section>
+      );
+    })
+  }
+
+  <!-- ./End service -->
+
+
+</Base>
