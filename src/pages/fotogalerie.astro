@@ -1,0 +1,42 @@
+---
+import { Image } from 'astro:assets'
+import Base from "@layouts/Base.astro";
+import Cta from "@layouts/components/Cta.astro";
+import { markdownify } from "@lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const fotogalerie = await getEntryBySlug("homepage", "fotogalerie");
+const { years } = fotogalerie.data;
+console.log(fotogalerie, years)
+---
+
+<Base>
+ 
+  <!-- Services -->
+  {
+    years!.map(yearData => {
+      return (
+        <section>
+          <h5>{yearData.title}
+          <Image
+                src={yearData!.image1.url}
+                width={538}
+                height={328}
+                alt=""
+              />
+          <Image
+              src={yearData!.image1.url}
+              width={538}
+              height={328}
+              alt=""
+            />
+          <a href={yearData.remainingPhotosLink}></a>  
+        </section>
+      );
+    })
+  }
+
+  <!-- ./End service -->
+
+
+</Base>
