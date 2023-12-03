@@ -5,8 +5,8 @@ import Cta from "@layouts/components/Cta.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 
-const fotogalerie = await getEntryBySlug("homepage", "fotogalerie");
-const { years } = fotogalerie.data;
+const fotogalerie = await getEntryBySlug( "fotogalerie", "index");
+const {  years } = fotogalerie.data;
 console.log(fotogalerie, years)
 ---
 
@@ -19,13 +19,13 @@ console.log(fotogalerie, years)
         <section>
           <h5>{yearData.title}
           <Image
-                src={yearData!.image1.url}
+                src={yearData!.image1}
                 width={538}
                 height={328}
                 alt=""
               />
           <Image
-              src={yearData!.image1.url}
+              src={yearData!.image2}
               width={538}
               height={328}
               alt=""
