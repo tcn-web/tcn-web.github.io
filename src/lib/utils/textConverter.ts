@@ -1,4 +1,4 @@
-import { slug } from 'github-slugger';
+import { slug } from "github-slugger";
 import { marked } from "marked";
 
 marked.use({
@@ -17,7 +17,7 @@ export const slugify = (content: string) => {
 export const markdownify = (content: string | undefined) => {
   if (!content) return null;
 
-  return marked.parseInline(content);
+  return marked.parse(content);
 };
 
 // humanize
@@ -56,7 +56,7 @@ const htmlEntityDecoder = (htmlWithEntities: string): string => {
     /(&amp;|&lt;|&gt;|&quot;|&#39;)/g,
     (entity: string): string => {
       return entityList[entity];
-    }
+    },
   );
   return htmlWithoutEntities;
 };

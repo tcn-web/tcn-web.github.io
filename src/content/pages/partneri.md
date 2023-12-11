@@ -4,18 +4,34 @@ draft: false
 faqs:
 ---
 
-### Česká matematická společnost + odkaz
+### Česká matematická společnost
 
-image: /images/ces.jpg
+![](/images/cms.png)
 
-### Česká nukleární společnost + odkaz
+#### web:
 
-image: /images/cns.jpg
+https://jcmf.cz/?q=cz/node/561
 
-### Fakulta jaderná a fyzikálně inženýrská ČVUT + odkaz
+### Česká nukleární společnost
 
-image: /images/fjfi.jpg
+![](/images/cns.png)
 
-### Qminers + odkaz
+#### web:
 
-image: /images/qminers.jpg
+https://nuklearnispolecnost.cz/
+
+### Fakulta jaderná a fyzikálně inženýrská ČVUT
+
+![](/images/fjfi.png)
+
+#### web:
+
+https://www.fjfi.cvut.cz/cz/
+
+### Qminers
+
+![](/images/qminers.png)
+
+#### web:
+
+https://qminers.com/

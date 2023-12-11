@@ -54,10 +54,6 @@ years:
     image1: /images/group-1-2008.jpg
     image2: /images/group-2-2008.jpg
     remainingPhotosLink: /aaaa
-  - title: 2007
-    image1: /images/group-1-2007.jpg
-    image2: /images/group-2-2007.jpg
-    remainingPhotosLink: /aaaa
   - title: 2006
     image1: /images/group-1-2006.jpg
     image2: /images/group-2-2006.jpg

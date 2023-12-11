@@ -11,20 +11,20 @@ console.log(fotogalerie, years)
 ---
 
 <Base>
- 
-  <!-- Services -->
+
+  <section class="fotogalerie"> 
   {
-    years!.map(yearData => {
+    years!.map((yearData, index) => {
+       const alternateClass = index % 2 > 0 ? 'alternate' : 'default';
       return (
-        <section>
-          <h5>{yearData.title}
-          <Image
+        <section class={`year-section ${alternateClass}`}>
+          <Image class="image1"
                 src={yearData!.image1}
                 width={538}
                 height={328}
                 alt=""
               />
-          <Image
+          <Image class="image2"
               src={yearData!.image2}
               width={538}
               height={328}
@@ -35,8 +35,7 @@ console.log(fotogalerie, years)
       );
     })
   }
-
-  <!-- ./End service -->
-
+  </section>
 
 </Base>
+
