@@ -4,34 +4,54 @@ draft: false
 faqs:
 ---
 
-### Česká matematická společnost
+<h4 style="text-align: center;">Česká matematická společnost</h4>
+<p align="center">
+  <img src="images/cms.png" />
+</p>
+<div style="text-align: center;">
 
-![](/images/cms.png)
+#### web: https://www.jcmf.cz/
 
-#### web:
+</br>
+</br>
+</br>
+</br>
+</br>
 
-https://jcmf.cz/?q=cz/node/561
+<h4 style="text-align: center;">Česká nukleární společnost</h4>
+<p align="center">
+  <img src="images/cns.png" />
+</p>
+<div style="text-align: center;">
 
-### Česká nukleární společnost
+#### web: https://nuklearnispolecnost.cz/
 
-![](/images/cns.png)
+</br>
+</br>
+</br>
+</br>
+</br>
 
-#### web:
+<h4 style="text-align: center;">Fakulta jaderná a fyzikálně inženýrská ČVUT</h4>
+<p align="center">
+  <img src="images/fjfi.png" />
+</p>
+<div style="text-align: center;">
 
-https://nuklearnispolecnost.cz/
+#### web: https://www.fjfi.cvut.cz/cz/
 
-### Fakulta jaderná a fyzikálně inženýrská ČVUT
+</br>
+</br>
+</br>
+</br>
+</br>
 
-![](/images/fjfi.png)
+<h4 style="text-align: center;">Qminers</h4>
+<p align="center">
+  <img src="images/qminers.png" />
+</p>
+<div style="text-align: center;">
 
-#### web:
+#### web: https://qminers.com/
 
-https://www.fjfi.cvut.cz/cz/
 
-### Qminers
-
-![](/images/qminers.png)
-
-#### web:
-
-https://qminers.com/
