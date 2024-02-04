@@ -1,12 +1,12 @@
 ---
 title: "Fotogalerie"
-layout: ../../
+layout: ../../../
 years:
   - title: Poslední ročník
     image1: /images/group-1-2023.jpg
     image2: /images/group-2-2023.jpg
     ClickableLink: http://www.google.com
-    ClickableImage: /images/plus-square-icon.webp 
+    ClickableImage: /images/plus-square-icon.webp
   - title: 2022
     image1: /images/group-1-2022.jpg
     image2: /images/group-2-2022.jpg
