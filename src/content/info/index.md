@@ -18,8 +18,7 @@ faqs:
 - title: Kdy a kde
   answer: V roce 2024 proběhne soustředění od 27.7. do 10.8. 2024 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
 - title: Kontakt
-  answer:  V případě jakýchkoliv dotazů nás neváhej kontaktovat na mailu tcn@fjfj.cvut.cz anebo kontaktuj 
-  jednoho z organizátorů <br/>Anežka Karamonová (hlavní organizátor) karaman1@cvut.cz <br/>Michal Žáček (zástupce hlavního organizátora) zacekmi3@cvut.cz
+  answer:  V případě jakýchkoliv dotazů nás neváhej kontaktovat na mailu tcn@fjfj.cvut.cz anebo kontaktuj jednoho z organizátorů Anežka Karamonová (hlavní organizátor) karaman1@cvut.cz či Michal Žáček (zástupce hlavního organizátora) zacekmi3@cvut.cz
 
 ---
   
