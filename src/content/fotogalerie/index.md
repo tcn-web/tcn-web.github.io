@@ -1,6 +1,6 @@
 ---
 title: "Fotogalerie"
-layout: ../../../
+
 years:
   - title: Poslední ročník
     image1: /images/group-1-2023.jpg
