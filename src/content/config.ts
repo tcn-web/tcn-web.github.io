@@ -122,13 +122,15 @@ const pricing_page = defineCollection({
 
 const fotogalerie = defineCollection({
   schema: z.object({
+    title: z.any(),
     years: z
       .array(
         z.object({
           title: z.any(),
           image1: z.string(),
           image2: z.string(),
-          remainingPhotosLink: z.string(),
+          ClickableLink: z.string(),
+          ClickableImage: z.string(),
         }),
       )
       .optional(),

@@ -8,7 +8,7 @@ faqs:
    Samozřejmě bude věnována spousta času doprovodnému programu - sportovní i strategické týmové hry, výlety po okolí, táboráky s kytarou a mnoho dalšího. Pokud nehrajete na varhany, neváhejte vzít svůj nástroj s sebou!
 
 - title: Cena a slevy
-  answer: Výše účastnického poplatku pro ročník zatím nebyla přesně stanovena, přibližně se bude jednat o 8500 Kč (bude upřesněno). A slevu 500 kč získáš pokud jsi byl úspěšným řešitelem krajského kola matematické, fyzikální nebo chemické olympiády, zúčastnil jsi se Týdnu vědy na Jaderce či máš vypracovaný nějaký zajímavý projekt, který by jsi nám mohl na TCN odprezentovat. Slevy se dají kombinovat.
+  answer: Výše účastnického poplatku pro ročník zatím nebyla přesně stanovena, přibližně se bude jednat o 8500 Kč (bude upřesněno). A slevu 500 Kč získáš pokud jsi byl úspěšným řešitelem krajského kola matematické, fyzikální nebo chemické olympiády, zúčastnil jsi se Týdnu vědy na Jaderce či máš vypracovaný nějaký zajímavý projekt, který by jsi nám mohl na TCN odprezentovat. Slevy se dají kombinovat.
 
 - title: Další aktivity
   answer: Součástí programu je i dobrovolná studentská konference, na které věnujeme čas prezentaci připravených studentských projektů. Tématem projektů může být libovolný problém nebo zajímavý pokus z oblasti matematiky, fyziky, chemie či informatiky, včetně aplikací těchto vědních disciplín v jiných oborech, lze využít například hotový projekt ze SOČ. Návrhy na projekty konzultujte s organizátory (email níže).

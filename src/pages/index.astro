@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets'
+import { Image } from "astro:assets";
 import Base from "@layouts/Base.astro";
 import Cta from "@layouts/components/Cta.astro";
 import { markdownify } from "@lib/utils/textConverter";
@@ -22,7 +22,6 @@ const { intro, sections } = homepage.data;
             )
           }
 
-         
           {
             intro?.image && (
               <Image
@@ -39,7 +38,6 @@ const { intro, sections } = homepage.data;
     </div>
   </section>
 
-
   <!-- Services -->
   {
     sections!.map((section, index: number) => {
@@ -49,15 +47,13 @@ const { intro, sections } = homepage.data;
           <div class="container">
             <div class="items-center gap-8 md:grid md:grid-cols-2">
               <div class={`service-carousel ${!isOdd && "md:order-2"}`}>
-                
-                  <Image
-                    class="mx-auto"
-                    src={section!.image}
-                    width={538}
-                    height={328}
-                    alt=""
-                  />
-                
+                <Image
+                  class="mx-auto"
+                  src={section!.image}
+                  width={538}
+                  height={328}
+                  alt=""
+                />
               </div>
 
               {/* Content */}
@@ -66,7 +62,6 @@ const { intro, sections } = homepage.data;
               >
                 <h2 class="font-bold leading-[40px]">{section?.title}</h2>
                 <p class="mt-4 mb-2">{section?.content}</p>
-                
               </div>
             </div>
           </div>
@@ -76,6 +71,4 @@ const { intro, sections } = homepage.data;
   }
 
   <!-- ./End service -->
-
-
 </Base>

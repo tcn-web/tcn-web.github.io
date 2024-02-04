@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 ---
 
-<h1 style="text-align: center;">Minulý ročník</h1>
+# Minulý ročník
 
 </br>
 </br>
