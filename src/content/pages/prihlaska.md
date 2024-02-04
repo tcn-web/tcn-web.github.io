@@ -9,6 +9,8 @@ Přihlašování ještě není spuštěno, ale můžeš vyplnit nezávaznou pře
 
 #### Kontakty
 
-- phone: +111 222 333 444"
-- Mail: xxx.yyy@gmail.com
-- Address: 360 Main rd, Rio, Brazil"
+V případě jakýchkoliv dotazů nás neváhej kontaktovat na mailu **tcn@fjfj.cvut.cz** anebo kontaktuj jednoho z organizátorů:
+
+Anežka Karamonová (hl. organizátor) **karaman1@cvut.cz**
+
+Michal Žáček (zástupce hl. organizátora) **zacekmi3@cvut.cz**
