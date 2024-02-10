@@ -73,7 +73,7 @@ h6,
     .clickable-image {
       padding-left: 10px;
       padding-bottom: 25px;
-      width: 300px;
+      width: 250px;
       opacity: 0.4;
     }
   }
@@ -96,7 +96,7 @@ h6,
       margin-left: 20px;
     }
     .clickable-image {
-      width: 300px;
+      width: 250px;
       padding-top: 10px;
       padding-left: 15px;
       padding-bottom: 10px;
@@ -246,4 +246,15 @@ main {
     }
   }
 }
-
+body {
+  h1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+}
+.font-primary-font-bold {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
