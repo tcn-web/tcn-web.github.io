@@ -9,52 +9,52 @@ faqs:
 </br>
 </br>
 </br>
-<h4 style="text-align: center;">Česká matematická společnost</h4>
+<h3 style="text-align: center;">Česká matematická společnost</h3>
 <p align="center">
   <img src="/images/cms.png" />
 </p>
 <div style="text-align: center;">
 
-### web: https://www.jcmf.cz/frontpagecms
+#### https://www.jcmf.cz/frontpagecms
 
 </br>
 </br>
 </br>
 </br>
 
-<h4 style="text-align: center;">Česká nukleární společnost</h4>
+<h3 style="text-align: center;">Česká nukleární společnost</h3>
 <p align="center">
   <img src="/images/cns.png" />
 </p>
 <div style="text-align: center;">
 
-### web: https://nuklearnispolecnost.cz/
+#### https://nuklearnispolecnost.cz/
 
 </br>
 </br>
 </br>
 </br>
 
-<h4 style="text-align: center;">Fakulta jaderná a fyzikálně inženýrská ČVUT</h4>
+<h3 style="text-align: center;">Fakulta jaderná a fyzikálně inženýrská ČVUT</h3>
 <p align="center">
   <img src="/images/fjfi.png" />
 </p>
 <div style="text-align: center;">
 
-### web: https://www.fjfi.cvut.cz/cz/
+#### https://www.fjfi.cvut.cz/cz/
 
 </br>
 </br>
 </br>
 </br>
 
-<h4 style="text-align: center;">Qminers</h4>
+<h3 style="text-align: center;">Qminers</h3>
 <p align="center">
   <img src="/images/qminers.png" />
 </p>
 <div style="text-align: center;">
 
-### web: https://qminers.com/
+#### https://qminers.com/
 
 </br>
 </br>
@@ -62,7 +62,7 @@ faqs:
 </br>
 </br>
 
-### Letní soustředění TCN pořádají studenti pod Studentskou unií při FJFI
+####í soustředění TCN pořádají studenti pod Studentskou unií při FJFI
 
 <div align="center">
 <img src="/images/sufjfi-logo.jpg" />
