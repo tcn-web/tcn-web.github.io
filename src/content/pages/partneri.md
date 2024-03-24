@@ -62,7 +62,7 @@ faqs:
 </br>
 </br>
 
-####í soustředění TCN pořádají studenti pod Studentskou unií při FJFI
+#### Letní soustředění TCN pořádají studenti pod Studentskou unií při FJFI
 
 <div align="center">
 <img src="/images/sufjfi-logo.jpg" />
