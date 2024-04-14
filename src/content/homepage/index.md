@@ -13,7 +13,7 @@ sections:
 
   - title: "Kdy a kde?"
     content: |
-      V příštím roce proběhne soustředění od 27.7. do 10.8. 2024 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
+      V letošním roce proběhne soustředění od 27. 7. do 10. 8. 2024 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
     image: /images/front-3.jpg
   
 ---
