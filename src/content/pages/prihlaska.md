@@ -4,7 +4,7 @@ draft: false
 ---
 
 #### Cena a platba
-Výše účastnického poplatku pro letošní ročník je 7000 Kč. Záloha 2500 Kč je splatná do 14 dnů ode dne obdržení emailu potvrzujícího přijetí přihlášky, doplatek 4500 Kč je splatný do 30. 6. 2024. Slevu 500 Kč získáš, pokud jsi byl úspěšným řešitelem krajského kola matematické, fyzikální nebo chemické olympiády, zúčastnil jsi se Týdnu vědy na Jaderce či máš vypracovaný nějaký zajímavý projekt, který bys nám chtěl na TCN odprezentovat. Slevová poukázka musí být aktuální. Slevy se dají kombinovat.
+Výše účastnického poplatku pro letošní ročník je 7000 Kč. Záloha 2500 Kč je splatná do 14 dnů ode dne obdržení emailu potvrzujícího přijetí přihlášky, doplatek 4500 Kč je splatný do 30. 6. 2024. Slevu 500 Kč získáš, pokud jsi byl úspěšným řešitelem krajského kola matematické, fyzikální nebo chemické olympiády, zúčastnil jsi se Týdnu vědy na Jaderce či máš vypracovaný nějaký zajímavý projekt, který bys nám chtěl na TCN odprezentovat. Slevy se dají kombinovat.
 
 
 Informace k platbě dostaneš mailem do týdne od přihlášení.
