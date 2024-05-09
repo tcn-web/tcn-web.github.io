@@ -9,6 +9,19 @@ faqs:
 </br>
 </br>
 </br>
+<h2 style="text-align: center;">Nadace ČEZ</h2>
+</br>
+<p align="center">
+  <img src="/images/CEZ.jpg" alt= "drawing" width="200" />
+</p>
+<div style="text-align: center;">
+
+#### https://www.nadacecez.cz/
+
+</br>
+</br>
+</br>
+</br>
 <h3 style="text-align: center;">Česká matematická společnost</h3>
 <p align="center">
   <img src="/images/cms.png" />
