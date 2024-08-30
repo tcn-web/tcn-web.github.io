@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 ---
 
-# Minulý ročník
+# Minulý ročník aa
 
 </br>
 </br>
@@ -13,7 +13,7 @@ draft: false
 
 </br>
 
-Minulý ročník proběhl od 22.7. - 5.8. 2023 v Opárnu u Lovosic. Sešel se skvělý kolektiv 20 účastníků a 7 organizátorů. 
+Minulý ročník proběhl od 27.7. - 10.8. 2024 v Bílém Potoce v Jizerských horách. Sešel se skvělý kolektiv 25 účastníků a 8 organizátorů. 
 
 </br>
 </br>
@@ -22,7 +22,7 @@ Minulý ročník proběhl od 22.7. - 5.8. 2023 v Opárnu u Lovosic. Sešel se sk
 
 </br>
 
-Účastníci přijeli do Austrálie jako odborníci, aby společně přišli na řešení palčivého problému - přemnožení králíků divokých. Přišli se skutečně originálním řešením vypustit do přírody geneticky upravené vombaty, kteří králíky měli částečně vyhubit. A skutečně se jim to povedlo! Jenže netrvalo dlouho a vombati začali být více a více inteligentní a nebezpeční. Soužití lidí s tímto novým druhem bylo těžší a těžší. Stateční účastníci se ale nevzdali a přes mnoho překážek (například časové anomálii) Austrálii uchránili.
+Účastníci přijeli na soustředění jako noví zaměstnanci firmy ClosedAI, která vyvíjí skutečně všemocnou umělou inteligenci. Během prvních dnů ve firmě si museli zvyknout na styl práce, který nekompromisně určovalo HR a zároveň pracovat pod nepříliš milým CEO. Když se jim to podařilo, začali se dít nevysvětlitelné věci - mizeli zaměstnanci, došlo i na vraždu za bílého dne. Poté se přiznal nenápadný, zdánlivě neškodný uklízeč, že za vší hrůzou stojí on. Naštěstí noví zaměstnanci firmy ubránili disk s umělou inteligencí a za poslechu kvalitní hudby zachránili svět.
 
 </br>
 </br>
@@ -31,7 +31,7 @@ Minulý ročník proběhl od 22.7. - 5.8. 2023 v Opárnu u Lovosic. Sešel se sk
 
 </br>
 
-Hry byly skutečně různorodé. Některé byly sportovnější jako třeba Labyrint (kde poslední dvojice schytala šílený slejvák, ale stejně si nenechali zkazit náladu) nebo wombobal, při kterém jsme si ukázali, že míč vůbec nemusí být kulatý. Z těch strategičtějších měla velký úspěch Debata nebo vylepšení Osadníci. Protože jsme byli v Českém středohoří, nenechali jsme si ujít ani výhledy z Boreče a Lovoše a skupina těch nejodvážnějších vyrazila pozorovat východ slunce z Milešovky. 
+Hry byly skutečně různorodé. Některé byly sportovnější jako třeba Lov uklízecích robotů nebo Obchodování s kabely, kdy účastníci dodávali materiál nutný k přepojení firemních Z těch strategičtějších měla velký úspěch Debata nebo vylepšení Osadníci. Protože jsme byli v Českém středohoří, nenechali jsme si ujít ani výhledy z Boreče a Lovoše a skupina těch nejodvážnějších vyrazila pozorovat východ slunce z Milešovky. 
 
 </br>
 </br>

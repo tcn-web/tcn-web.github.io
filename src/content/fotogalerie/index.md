@@ -3,8 +3,13 @@ title: "Fotogalerie"
 
 years:
   - title: Poslední ročník
-    image1: /images/group-1-2023.jpg
-    image2: /images/group-2-2023.jpg
+    image1: /images/group-2-2024.jpg
+    image2: /images/group-3-2024.jpg
+    ClickableLink: https://www.facebook.com/soustredeniTCN/photos_albums
+    ClickableImage: /images/plus-square-icon.webp
+  - title: 2023
+    image1: /images/group-2-2023.jpg
+    image2: /images/front-1.jpg
     ClickableLink: https://www.facebook.com/soustredeniTCN/photos_albums
     ClickableImage: /images/plus-square-icon.webp
   - title: 2022
