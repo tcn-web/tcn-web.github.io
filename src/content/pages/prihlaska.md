@@ -4,15 +4,14 @@ draft: false
 ---
 
 #### Cena a platba
-Výše účastnického poplatku pro letošní ročník je 7000 Kč. Záloha 2500 Kč je splatná do 14 dnů ode dne obdržení emailu potvrzujícího přijetí přihlášky, doplatek 4500 Kč je splatný do 30. 6. 2024. Slevu 500 Kč získáš, pokud jsi byl úspěšným řešitelem krajského kola matematické, fyzikální nebo chemické olympiády, zúčastnil jsi se Týdnu vědy na Jaderce či máš vypracovaný nějaký zajímavý projekt, který bys nám chtěl na TCN odprezentovat. Slevy se dají kombinovat.
+Výše účastnického poplatku pro rok 2025 bude stanovena, v roce 2024 byl účastnický poplatek 7000 Kč. Úspěšní řešitelé krajských kol matematické, fyzikální nebo chemické olympiády nebo účastníci Týdne vědy na Jaderce, kteří obdrželi slevovou poukázku od FJFI ji mohou uplatnit a získat slevu 500 Kč. Slevu 500 Kč získají i účastníci, kteří budou na TCN prezentovat vlastní zajímavý projekt. Slevy se dají kombinovat.
 
 
 Informace k platbě dostaneš mailem do týdne od přihlášení.
 
 #### Přihlášení
 
-Přihlášku můžeš vyplnit zde: https://forms.gle/vjcXbFRqr3djM8ie6
-S přihlašováním neváhej, počet účastníků je omezený. Přihlašování je možné do 10. 6., poté pouze po domluvě s organizátory.
+Přihláška bude zveřejněna později, do té doby můžeš vyplnit předběžnou přihlášku **https://forms.gle/LfwnrM1vYx1czoKy5** a my se ti ozveme, až přihlašování spustíme.
 
 
 #### Kontakty
