@@ -4,13 +4,12 @@ draft: false
 faqs:
   - title: Program
     answer:
-      Na programu jsou přednášky profesorů FJFI ČVUT a dalších hostů na aktuální a zajímavá témata a kurz z matematiky nebo fyziky podaný formou přístupnou pro středoškoláky – skvělá příprava na začátek studia FJFI.
+      Na programu jsou přednášky profesorů FJFI ČVUT a dalších hostů na aktuální a zajímavá témata a kurz z matematiky nebo fyziky podaný formou přístupnou pro středoškoláky – skvělá příprava na začátek studia FJFI. 
 
       Samozřejmě bude věnována spousta času doprovodnému programu - sportovní i strategické týmové hry, výlety po okolí, táboráky s kytarou a mnoho dalšího. Pokud nehrajete na varhany, neváhejte vzít svůj nástroj s sebou!
 
   - title: Cena a slevy
-    answer: 
-    Výše účastnického poplatku pro rok 2025 je 8000 Kč. Záloha 3000 Kč je splatná do 14 dnů ode dne obdržení emailu potvrzujícího přijetí přihlášky, doplatek 5000 Kč je splatný do 30. 6. 2025. Úspěšní řešitelé krajských kol matematické, fyzikální nebo chemické olympiády nebo účastníci Týdne vědy na Jaderce, kteří obdrželi slevovou poukázku od FJFI ji mohou uplatnit a získat slevu 500 Kč. Slevu 500 Kč získají i účastníci, kteří budou na TCN prezentovat vlastní zajímavý projekt. Slevy se dají kombinovat.
+    answer: Výše účastnického poplatku pro rok 2025 je 8000 Kč. Záloha 3000 Kč je splatná do 14 dnů ode dne obdržení emailu potvrzujícího přijetí přihlášky, doplatek 5000 Kč je splatný do 30. 6. 2025. Úspěšní řešitelé krajských kol matematické, fyzikální nebo chemické olympiády nebo účastníci Týdne vědy na Jaderce, kteří obdrželi slevovou poukázku od FJFI ji mohou uplatnit a získat slevu 500 Kč. Slevu 500 Kč získají i účastníci, kteří budou na TCN prezentovat vlastní zajímavý projekt. Slevy se dají kombinovat.
 
   - title: Další aktivity
     answer: Součástí programu je i dobrovolná studentská konference, na které věnujeme čas prezentaci připravených studentských projektů. Tématem projektů může být libovolný problém nebo zajímavý pokus z oblasti matematiky, fyziky, chemie či informatiky, včetně aplikací těchto vědních disciplín v jiných oborech, lze využít například hotový projekt ze SOČ. Návrhy na projekty konzultujte s organizátory (email níže).
