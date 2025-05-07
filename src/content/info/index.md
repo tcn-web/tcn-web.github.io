@@ -17,7 +17,7 @@ faqs:
     answer: Ubytování je zajištěno v budově rekreačního střediska. Pro účastníky je zajištěna plná penze. Případné speciální požadavky (vegetariánská, bezlepková strava apod.) prosím uveďte v přihlášce.
 
   - title: Kdy a kde
-    answer: V příštím roce proběhne soustředění od 26. 7. do 9. 8. 2025 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
+    answer: V letošním roce proběhne soustředění od 26. 7. do 9. 8. 2025 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
   - title: Kontakt
     answer: |
       V případě jakýchkoliv dotazů nás neváhej kontaktovat jednoho z organizátorů:

@@ -13,7 +13,7 @@ sections:
 
   - title: "Kdy a kde?"
     content: |
-      V lepříštím roce proběhne soustředění od 26. 7. do 9. 8. 2025 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
+      V letošním roce proběhne soustředění od 26. 7. do 9. 8. 2025 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
     image: /images/front-24-3.jpg
   
 ---
