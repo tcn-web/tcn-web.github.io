@@ -11,7 +11,7 @@ Informace k platbě dostaneš mailem do týdne od přihlášení.
 
 #### Přihlášení
 
-Přihlášku můžeš vyplnit zde: **https://forms.gle/a1zhtb3ojPBUM6c99**. Přihlašování je možné do 25. 6. 2025. 
+Přihlášku můžeš vyplnit zde: **https://forms.gle/a1zhtb3ojPBUM6c99**. Přihlašování je možné do 10. 7. 2025. 
 
 
 #### Kontakty
