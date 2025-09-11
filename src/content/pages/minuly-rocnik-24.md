@@ -13,7 +13,7 @@ draft: false
 
 </br>
 
-Minulý ročník proběhl od 26.7. - 9.8. 2025 v Bílém Potoce v Jizerských horách. Sešel se skvělý kolektiv 20 účastníků a 8 organizátorů. 
+Minulý ročník proběhl od 27.7. - 10.8. 2024 v Bílém Potoce v Jizerských horách. Sešel se skvělý kolektiv 25 účastníků a 8 organizátorů. 
 
 </br>
 </br>
@@ -22,7 +22,7 @@ Minulý ročník proběhl od 26.7. - 9.8. 2025 v Bílém Potoce v Jizerských ho
 
 </br>
 
-Účastníci byli vybráni jako nadějní budoucí kosmonauti pro cestu na vzdálenou planetu a její následné osídlení. Ještě na Zemi prošli základním výcvikem, poté si sami sestavili odpalovací rampu na raketu a vydali se na dlouhou cestu vesmírem. Během ní si museli zvyknout na uzavřené prostory lodi a odhalit impostery. Kvůli technickým poruchám dokonce musela být několikrát vyhlášena evakuace. Celá posádka se nicméně se všemi komplikacemi zvládla vypořádat a podařilo se doletět až k vybrané planetě. Ale po přistání bylo zjištěno, že osidlování tak jednoduché nebude, protože planeta je už obydlená. Ale s nimi se účastnící dokázali domluvit a získali pro sebe část území.
+Účastníci přijeli na soustředění jako noví zaměstnanci firmy ClosedAI, která vyvíjí skutečně všemocnou umělou inteligenci. Během prvních dnů ve firmě si museli zvyknout na styl práce, který nekompromisně určovalo HR a zároveň pracovat pod nepříliš milým CEO. Když se jim to podařilo, začali se dít nevysvětlitelné věci - mizeli zaměstnanci, došlo i na vraždu za bílého dne. Poté se přiznal nenápadný, zdánlivě neškodný uklízeč, že za vší hrůzou stojí on. Naštěstí noví zaměstnanci firmy ubránili disk s umělou inteligencí a za poslechu kvalitní hudby zachránili svět.
 
 </br>
 </br>
