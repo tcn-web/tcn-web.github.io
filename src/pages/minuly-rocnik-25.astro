@@ -1,0 +1,64 @@
+---
+import Base from "@layouts/Base.astro";
+import { markdownify } from "@lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+const entry = await getEntryBySlug("pages", "minuly-rocnik");
+const { Content } = await entry.render();
+---
+
+<Base title={entry.data.title}>
+  
+  <section class="segment">
+    <div class="container">
+      <div class="text">
+        <h1 class="name">Minulý ročník</h1>
+        <div class="part-1">
+          <h4 class="subject">Datum a místo</h4>
+          <p class="words">
+            Minulý ročník proběhl od 27. 7. do 10. 8. 2024 v Bílém Potoce 
+            v Jizerských horách. Sešel se skvělý kolektiv 25 účastníků a 8 organizátorů. 
+          </p>
+        </div>
+        <img class="min-img-1" src="/images/Minuly-rocnik-24-2.jpg" />
+        <div class="part-2">
+          <h4 class="subject">Téma</h4>
+          <p class="words">
+            Účastníci přijeli na soustředění jako noví zaměstnanci firmy ClosedAI, 
+            která vyvíjí skutečně všemocnou umělou inteligenci. 
+            Během prvních dnů ve firmě si museli zvyknout na styl práce, 
+            který nekompromisně určovalo HR a zároveň pracovat pod nepříliš milým CEO. 
+            Když se jim to podařilo, začali se dít nevysvětlitelné věci - 
+            mizeli zaměstnanci, došlo i na vraždu za bílého dne. 
+            Poté se přiznal nenápadný, zdánlivě neškodný uklízeč, že za vší hrůzou stojí on.
+            Noví zaměstnanci firmy se s ním dali do boje a ubránili disk 
+            s umělou inteligencí a za poslechu kvalitní hudby zachránili svět.
+          </p>
+        </div>
+        <img class="min-img-2" src="/images/Minuly-rocnik-24-5.jpg" />
+        <div class="part-3">
+          <h4 class="subject">Hry a výlety</h4>
+          <p class="words">
+            Hry byly skutečně různorodé. Některé byly sportovnější jako třeba Lov uklízecích 
+            robotů nebo Obchodování s kabely, kdy účastníci dodávali materiál 
+            nutný k přepojení firemních serverů. Z těch strategičtějších mělo velký úspěch předávání
+            informací přes Pošťáka Trolla. Na výlety jsme vyrazili přes Kočičí kameny na Smrk a
+             na večerní procházku přes Frýdlantské cimbuří.
+          </p>
+        </div>
+        <img class="min-img-3" src="/images/Minuly-rocnik-24-1.jpg" />
+        <div class="part-4">
+          <h4 class="subject">Odborný program</h4>
+          <p class="words">
+            Během celého soustředění probíhaly VKM (Večerní kurzy matematiky) na
+            téma Diferenciální rovnice. V průběhu se účastníci naučili základy derivací a integrálů,
+            což se jim při dalším studiu určitě bude hodit. Zároveň nás přijelo navštívit mnoho
+            přednášejících, mezi nimi doc. Jaroslav Bielčík s přednáškou o částicové fyzice, po které 
+            si účastníci zkusili vyrobit mlžné komory nebo zástupci KDAIZ, kteří předvedli praktickou ukázku 
+            dronu na měření ionizujícího záření.
+          </p>
+        </div>
+        <img class="min-img-4" src="/images/Minuly-rocnik-24-4.jpg" />
+      </div>
+    </div>
+  </section>
+</Base>
