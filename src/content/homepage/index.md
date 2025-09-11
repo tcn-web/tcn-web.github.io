@@ -1,7 +1,7 @@
 ---
 intro:
   title: Letní studentské soustředění TCN
-  content: Studuješ na gymnáziu nebo střední škole? Zajímá tě matematika, fyzika nebo informatika? Chceš strávit jedinečných 14 dnů v přírodě s podobně naladěnými lidmi? Pokud ano, přihlaš se a doraž na TCN! Od 26. 7. do 9. 8. 2025 proběhne již 25. ročník této skvělé akce, kterou pořádají studenti pro studenty.
+  content: Studuješ na gymnáziu nebo střední škole? Zajímá tě matematika, fyzika nebo informatika? Chceš strávit jedinečných 14 dnů v přírodě s podobně naladěnými lidmi? Pokud ano, přihlaš se a doraž na TCN! Od 25. 7. do 8. 8. 2026 proběhne již 26. ročník této skvělé akce, kterou pořádají studenti pro studenty.
   image: /images/front-24-1.jpeg
 
 
@@ -13,7 +13,7 @@ sections:
 
   - title: "Kdy a kde?"
     content: |
-      V letošním roce proběhne soustředění od 26. 7. do 9. 8. 2025 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
-    image: /images/front-24-3.jpg
+      V letošním roce proběhne soustředění od 25. 7. do 8. 8. 2026 v Areálu Krakonoš v Bílém Potoce v Jizerských horách.
+    image: /images/tricka-2025.jpg
   
 ---
