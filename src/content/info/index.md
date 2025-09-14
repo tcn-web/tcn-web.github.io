@@ -23,7 +23,7 @@ faqs:
       V případě jakýchkoliv dotazů nás neváhej kontaktovat:
       Barbora Růžičková (hl. organizátor) **ruzicbar@fjfi.cvut.cz**
 
-      Michal Žáček (zástupace hl. organizátora) **zacekmi3@cvut.cz**
+      Michal Žáček (zástupce hl. organizátora) **zacekmi3@cvut.cz**
 
       Anežka Karamonová (zástupce zástupce hl. organizátora) **karaman1@cvut.cz**
 ---
