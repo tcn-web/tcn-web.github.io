@@ -3,8 +3,8 @@ title: "Fotogalerie"
 
 years:
   - title: Poslední ročník
-    image1: /images/tricka-2025.jpg
-    image2: /images/group-2025.jpg
+    image1: /images/group-2025.jpg
+    image2: /images/tricka-2025.jpg
     ClickableLink: https://www.facebook.com/soustredeniTCN/photos_albums
     ClickableImage: /images/plus-square-icon.webp
   - title: 2024
