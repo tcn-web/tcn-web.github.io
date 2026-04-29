@@ -8,7 +8,7 @@ Výše účastnického poplatku pro rok 2026 je 8500 Kč. Držitelé slevových 
 
 #### Přihlášení
 
-Přihlašování je možné skrz formulář **https://forms.gle/gMvdRe5dLsziJd9H9** a je spuštěno do 10. 7. 2026.
+Přihlašování je možné skrz formulář **https://forms.gle/gMvdRe5dLsziJd9H9** a je spuštěno do 10. 7. 2026. Pro přihlášení po tomto datu nás kontaktuj na mailu **tcn@fjfi.cvut.cz**.
 
 #### Kontakty
 
