@@ -4,18 +4,17 @@ draft: false
 ---
 
 #### Cena a platba
-Výše účastnického poplatku pro rok 2026 bude stanovena.
+Výše účastnického poplatku pro rok 2026 je 8500 Kč. Držitelé slevových poukázek od FJFI mohou dostat slevu 500 Kč. Slevu 500 Kč dostane také účastník, který odprezentuje svůj vlastní projekt. Slevy se dají kombinovat.
 
 #### Přihlášení
 
-Přihlašování zatím není spuštěno, ale můžeš vyplnit předběžnou přihlášku **https://forms.gle/o75tZJ7ZCRnzXeZm8** a my se ti ozveme, až bude přihláška zveřejněna.
-
+Přihlašování je možné skrz formulář **https://forms.gle/gMvdRe5dLsziJd9H9** a je spuštěno do 10. 7. 2026.
 
 #### Kontakty
 
 V případě jakýchkoliv dotazů nás neváhej kontaktovat na mailu **tcn@fjfi.cvut.cz** nebo kontaktuj jednoho z organizátorů:
 
-Barbora Růžičková (hl. organizátor) **ruzicbar@fjfi.cvut.cz**
+Barbora Růžičková (hl. organizátor) **ruzicbar@cvut.cz**
 
 Michal Žáček (zástupce hl. organizátora) **zacekmi3@cvut.cz**
 

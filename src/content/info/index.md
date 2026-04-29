@@ -9,7 +9,7 @@ faqs:
       Samozřejmě bude věnována spousta času doprovodnému programu - sportovní i&nbsp;strategické týmové hry, výlety po okolí, táboráky s kytarou a&nbsp;mnoho dalšího. Pokud nehrajete na varhany, neváhejte vzít svůj nástroj s sebou!
 
   - title: Cena a slevy
-    answer: Výše účastnického poplatku pro rok 2026 bude stanovena.
+    answer: Výše účastnického poplatku pro rok 2026 je 8500 Kč.
 
   - title: Další aktivity
     answer: Součástí programu je i dobrovolná studentská konference, na které věnujeme čas prezentaci připravených studentských projektů. Tématem projektů může být libovolný problém nebo zajímavý pokus z oblasti matematiky, fyziky, chemie či informatiky, včetně aplikací těchto vědních disciplín v jiných oborech, lze využít například hotový projekt ze SOČ. Návrhy na projekty konzultujte s organizátory (email níže).
